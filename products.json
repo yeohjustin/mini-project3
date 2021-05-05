@@ -1,0 +1,29 @@
+{
+   "products": [
+      {
+         "name": "Mushrooms",
+         "detail":"products_mushroom",
+         "imgPath": "img/products/mushroom.jpg",
+         "price":15.00
+      },
+      {
+         "name": "Potatos",
+         "detail":"products_potato",
+         "imgPath": "img/products/potato.jpg",
+         "price":2.30
+      },
+      {
+         "name": "carrots",
+         "detail":"products_carrot",
+         "imgPath": "img/products/carrot.jpg",
+         "price":1.90
+      },
+      
+      {
+         "name": "Tomatoes",
+         "detail":"products_tomato",
+         "imgPath": "img/products/tomatoes.jpg",
+         "price":3.40
+      }
+   ]
+}
